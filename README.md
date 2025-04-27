@@ -26,8 +26,11 @@ pip install opencv-python-headless
 streamlit run app.py
 
 3. Tarayıcıda http://localhost:8501 adresini açın
-4. Bir video yükleyin ve sonuçları görün
+4. Bir video yükleyin 
 
+
+
+-----------------
 
 
 
@@ -35,7 +38,15 @@ streamlit run app.py
 
 
 
+-----------------
+
+
+
 ![2](https://github.com/user-attachments/assets/f0825639-5af6-4c1c-bbc8-37a96c23bfb9)
+
+
+
+-----------------
 
 
 
@@ -43,11 +54,23 @@ streamlit run app.py
 
 
 
+-----------------
+
+
+
 ![4](https://github.com/user-attachments/assets/eda03f1b-e7a0-4005-b472-c18557364b15)
 
 
 
+-----------------
+
+
+
 ![5](https://github.com/user-attachments/assets/c407ffd3-43af-47f3-9466-66fcd3d55c3d)
+
+
+
+-----------------
 
 
 
